@@ -16,3 +16,7 @@ I also made it to work in an utf-8 environment. And translated variable naming a
 or
 
     UPDATE table SET barcode_column = TextTo128(other_column);
+
+## code 128 font
+
+display the text using a [code 128 font](https://github.com/Holger-Will/code-128-font)
