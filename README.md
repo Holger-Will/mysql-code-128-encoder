@@ -15,4 +15,4 @@ I also made it to work in an utf-8 environment. And translated variable naming a
 
 or
 
-    UPDATE table set barcode_column = TextTo128(other_column);
+    UPDATE table SET barcode_column = TextTo128(other_column);
